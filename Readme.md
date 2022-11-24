@@ -1,0 +1,1 @@
+# Wordpress Theme For learning the basics
